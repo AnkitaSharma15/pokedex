@@ -1,0 +1,7 @@
+.modal-header-border {
+  border: none;
+}
+.text-capital {
+  text-transform: capitalize;
+  color: gray;
+}

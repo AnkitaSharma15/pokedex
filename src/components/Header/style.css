@@ -1,0 +1,19 @@
+.Header {
+  text-align: center;
+}
+
+.Pokemon-header {
+  background-color: #e6e6e6;
+  height: 150px;
+  padding: 20px;
+  color: black;
+}
+
+.Pokemon-title {
+  font-size: 3em;
+  font-family: pokemonTitle;
+}
+@font-face {
+  font-family: pokemonTitle;
+  src: url(../../fonts/PokemonHollow.ttf);
+}

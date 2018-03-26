@@ -1,14 +1,15 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
-import "./App.css";
-import PokemonCard from "./components/PokemonCard";
 import PokemonModal from "./components/PokemonModal/index";
+import Header from "./components/Header/index";
+import PokemonBall from "./components/PokemonBall/index";
 
 class App extends Component {
   render() {
     return (
       <div>
-        {/* <PokemonCard /> */}
+        <Header>
+          <PokemonBall />
+        </Header>
         <PokemonModal />
       </div>
     );

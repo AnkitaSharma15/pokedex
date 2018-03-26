@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "pikachu"
+  },
+  {
+    "id": 2,
+    "name": "caterpie"
+  },
+  {
+    "id": 3,
+    "name": "bulbasaur"
+  },
+  {
+    "id": 4,
+    "name": "charizard"
+  },
+  {
+    "id": 5,
+    "name": "celebi"
+  },
+  {
+    "id": 6,
+    "name": "charmander"
+  },
+  {
+    "id": 7,
+    "name": "mew"
+  },
+  {
+    "id": 8,
+    "name": "jigglypuff"
+  }
+]

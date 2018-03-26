@@ -1,0 +1,20 @@
+.pokemon-block {
+  background: #000066;
+  color: white;
+  padding: 0;
+}
+.embed-responsive-1by1 {
+  padding-bottom: 100%;
+}
+.pokemon-border {
+  border: solid 2px #000;
+  padding: 0;
+}
+.pokemon-name {
+  color: white;
+  text-transform: capitalize;
+}
+/* @font-face {
+  font-family: pokemonName;
+  src: url(../../fonts/PokemonSolid.ttf);
+} */
